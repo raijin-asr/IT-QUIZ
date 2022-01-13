@@ -1,0 +1,77 @@
+		
+						
+								=====================================
+								     Computer Fundamentals : Set A 
+								=====================================				
+
+						       Q1. What is smallest unit of the information?
+
+				  		   	   1. A bit
+						
+						  	   2. A byte
+
+							   3. A block
+							
+							   4. A nibble
+						  	   $1
+
+								=====================================
+								     Computer Fundamentals : Set A 
+								=====================================
+
+							Q2. What is the decimal equivalent of the binary number 10111?
+
+						  	   1. 21
+						    
+							   2. 39
+						    
+							   3. 42
+						    
+							   4. 23
+						    	   $4
+
+								=====================================
+								     Computer Fundamentals : Set A 
+								=====================================						       
+
+							Q3. How many color dots make up one color pixel on a screen?
+
+						    	   1. 265
+						    
+							   2. 16
+				 		    
+							   3. 8
+						    
+							   4. 3
+				  		    	   $4
+
+								=====================================
+								     Computer Fundamentals : Set A 
+								=====================================
+
+							Q4. How is the data stored on the diskette?
+				 		    
+							    1. Ink
+						    
+							    2. Laser bubbles
+						
+							    3. Magnetism
+				 		 
+							    4. Circuits
+				  		    	    $3							
+	
+								=====================================
+								     Computer Fundamentals : Set A 
+								=====================================	
+
+							Q5. Which of the following natural element is the primary element 
+							    in computer chips?
+						    
+							    1. Silicon
+						    
+							    2. Carbon
+						    
+							    3. Iron
+						    	
+							    4. Uranium
+						    	    $1

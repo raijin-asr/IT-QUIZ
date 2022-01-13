@@ -1,0 +1,76 @@
+
+
+								=====================================
+								          Database : Set B 
+								=====================================				
+
+						       Q1. Which of the following is an open source DBMS?
+
+				  		   	   1. Oracle
+						
+						  	   2. MySQL
+				 		
+						  	   3. Microsoft Access
+				 		
+						 	   4. None of the above
+						  	   $2
+
+								=====================================
+								          Database : Set B 
+								=====================================
+
+						       Q2. Which of the following is not a database object? 
+
+						  	   1. Table 
+						    
+							   2. Sequence
+						    
+							   3. Index
+						    
+							   4. Relationships
+						    	   $4
+
+								=====================================
+								          Database : Set B 
+								=====================================
+
+						       Q3. How many schema does database support
+
+						    	   1. 4
+						    
+							   2. 6
+				 		    
+							   3. 2
+						    
+							   4. 8
+				  		    	   $3
+					
+								=====================================
+								          Database : Set B 
+								=====================================
+
+						       Q4. Which language is related to database? 
+				 		    
+							    1. HyperText Markup Language
+						    
+							    2. Structured Query Language
+						
+							    3. Practical Extraction and Reporting Language
+				 		 
+							    4. None of the above
+				  		    	    $2
+
+								=====================================
+								          Database : Set B 
+								=====================================
+
+							Q5. Which of the following is a threat to a database? 
+						    
+							    1. Excessive privileges
+						    
+							    2. Database injection attacks
+						    
+							    3. Malware and storage media exposure
+						    	
+							    4. All of the above
+						    	    $4

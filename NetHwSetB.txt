@@ -1,0 +1,77 @@
+				
+
+								=====================================
+								     Networking & Hardware : Set B 
+								=====================================							
+
+						       Q1. Noise of channel, noise ------- the quality of information and data
+
+				  		   	   1. Upgrades
+						
+						  	   2. Degrades
+				 		
+						  	   3. Both a & b
+				 		
+						 	   4. None of these
+						  	   $2
+
+								=====================================
+								     Networking & Hardware : Set B 
+								=====================================	
+
+						       Q2. Channel Bandwidth is measured in 
+
+						  	   1. decibals
+						    
+							   2. Hertz
+						    
+							   3. Micron
+						    
+							   4. Bits per second
+						    	   $2
+
+								=====================================
+								     Networking & Hardware : Set B 
+								=====================================	
+
+						       Q3. Bandwidth is expressed as data speed in .......... digital systems.
+
+						    	   1. decibals
+						    
+							   2. hertz
+				 		    
+							   3. micron
+						    
+							   4. bits per second
+				  		    	   $4
+
+								=====================================
+								     Networking & Hardware : Set B 
+								=====================================	
+
+							Q4. .....may defined as range of frequencies assigned to a channel
+				 		    
+							    1. Bandwidth
+						    
+							    2. Channel noise
+						
+							    3. Bit rate
+				 		 
+							    4. Channel latency
+				  		    	    $1
+
+								=====================================
+								     Networking & Hardware : Set B 
+								=====================================	
+
+							Q5. Higher the bandwidth ....... will be the data transmission rate 
+							    or throughput
+						    
+							    1. More 
+						    
+							    2. Less
+						    
+							    3. Medium
+						    	
+							    4. None of these 
+						    	    $1

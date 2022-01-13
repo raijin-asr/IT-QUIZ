@@ -1,0 +1,78 @@
+			
+
+								=====================================
+								     Computer Fundamentals : Set B 
+								=====================================
+
+						       Q1. Which of the following is the smallest visual element 
+							   on a video monitor?
+
+				  		   	   1. Character
+						
+						  	   2. Pixel
+				 		
+						  	   3. Byte
+				 		
+						 	   4. Bit
+						  	   $2
+
+								=====================================
+								     Computer Fundamentals : Set B 
+								=====================================
+
+						       Q2. Which of the following programs enables you to calculate
+							   numbers related to rows and columns?
+
+						  	   1. Window program
+						    
+							   2. Spreadsheet program
+						    
+							   3. Graphics program
+						    
+							   4. Word program
+						    	   $2
+
+								=====================================
+								     Computer Fundamentals : Set B 
+								=====================================
+
+						       Q3. Which of the following is an output device?
+
+						    	   1. Keyboard
+						    
+							   2. Mouse
+				 		    
+							   3. Light Pen
+						    
+							   4. VDU
+				  		    	   $4
+
+								=====================================
+								     Computer Fundamentals : Set B 
+								=====================================
+
+							Q4. Which of the following is an input device?
+				 		    
+							    1. Plotter
+						    
+							    2. Printer
+						
+							    3. VDU
+				 		 
+							    4. Mouse
+				  		    	    $4
+
+								=====================================
+								     Computer Fundamentals : Set B 
+								=====================================
+
+							Q5. Which of the following is the extension of Notepad?
+						    
+							    1. .txt
+						    
+							    2. .xls
+						    
+							    3. .ppt
+						    	
+							    4. .exe
+						    	    $1

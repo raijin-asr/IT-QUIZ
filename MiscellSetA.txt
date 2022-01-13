@@ -1,0 +1,76 @@
+			
+
+								=====================================
+								          Miscellaneous : Set A 
+								=====================================		
+
+						       Q1. Which of the following is an Email Client 
+
+				  		   	   1. Mozilla
+						
+						  	   2. Outlook express
+				 		
+						  	   3. Google
+				 		
+						 	   4. IE
+						  	   $2
+
+								=====================================
+								          Miscellaneous : Set A 
+								=====================================
+
+						       Q2. MS Word is a 
+
+						  	   1. a program
+						    
+							   2. word processing package 
+						    
+							   3. system software 
+						    
+							   4. None of the above.
+						    	   $2
+
+								=====================================
+								          Miscellaneous : Set A 
+								=====================================
+
+						       Q3. Binary system uses power of ........
+
+						    	   1. 10
+						    
+							   2. 8
+				 		    
+							   3. 16
+						    
+							   4. 2
+				  		    	   $2
+
+								=====================================
+								          Miscellaneous : Set A 
+								=====================================
+
+							Q4. ......is used for manufacturing chips. 
+				 		    
+							    1. Control Unit
+						    
+							    2. Semi-conductors
+						
+							    3. Bus
+				 		 
+							    4. All of the above
+				  		    	    $2
+
+								=====================================
+								          Miscellaneous : Set A 
+								=====================================
+
+							Q5. The memory which is programmed at the time it is manufactured 
+						    
+							    1. ROM
+						    
+							    2. RAM
+						    
+							    3. PROM
+						    	
+							    4. EROM
+						    	    $1

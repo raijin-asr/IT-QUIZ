@@ -1,0 +1,76 @@
+			
+
+								=====================================
+								          Programming : Set A 
+								=====================================
+
+						       Q1.  Who developed C++?
+
+				  		   	   1. Charles Babbage
+						
+						  	   2. Lady Augusta
+				 		
+						  	   3. Bjarne Stroustrup
+				 		
+						 	   4. Dennis Ritchie
+						  	   $3
+
+								=====================================
+								          Programming : Set A 
+								=====================================
+
+						       Q2. Which of the following is not characteristic of OOP(C++)?
+
+						  	   1. Class
+						    
+							   2. Algorithm
+						    
+							   3. Inheritance 
+						    
+							   4. Polymorphism
+						    	   $2
+
+								=====================================
+								          Programming : Set A 
+								=====================================
+
+						       Q3. Which of the following are OOP examples? 
+
+						    	   1. C++
+						    
+							   2. Java
+				 		    
+							   3. Vb.net
+						    
+							   4. All of the above
+				  		    	   $4
+
+								=====================================
+								          Programming : Set A 
+								=====================================
+
+							Q4. ..... is example of Run time Polymorphism.
+				 		    
+							    1. Function Overloading
+						    
+							    2. Virtual Functions
+						
+							    3. Function Overriding
+				 		 
+							    4. Operator Overloading
+				  		    	    $2
+
+								=====================================
+								          Programming : Set A 
+								=====================================
+
+							Q5. Operator overloading is used to add 
+						    
+							    1. floats
+						    
+							    2. integers
+						    
+							    3. objects
+						    	
+							    4. characters
+						    	    $3

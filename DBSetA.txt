@@ -1,0 +1,76 @@
+
+
+								=====================================
+								          Database : Set A 
+								=====================================				
+
+						       Q1. A tuple is an
+
+				  		   	   1. Column of a table
+						
+						  	   2. Two dimensional table
+				 		
+						  	   3. Row of a table
+				 		
+						 	   4. Key of a table
+						  	   $3
+
+								=====================================
+								          Database : Set A 
+								=====================================
+
+						       Q2. The primary key is selected from the
+
+						  	   1. Composite keys
+						    
+							   2. Determinants
+						    
+							   3. Candidate keys
+						    
+							   4. Foreign keys
+						    	   $3
+
+								=====================================
+								          Database : Set A 
+								=====================================
+
+						       Q3. A relation is considered a
+
+						    	   1. Column
+						    
+							   2. One-dimensional table
+				 		    
+							   3. Two-dimensional table
+						    
+							   4. Three-dimensional table
+				  		    	   $3
+
+								=====================================
+								          Database : Set A 
+								=====================================
+
+							Q4. SQL stands for ________ 
+				 		    
+							    1. Structured Query Language
+						    
+							    2. Sequential Query Language
+						
+							    3. Structured Question Language
+				 		 
+							    4. Sequential Question Language
+				  		    	    $1
+
+								=====================================
+								          Database : Set A 
+								=====================================
+
+							Q5. An attribute is an
+						    
+							    1. Column of a table
+						    
+							    2. Two dimensional table
+						    
+							    3. Row of a table
+						    	
+							    4. Key of a table
+						    	    $1

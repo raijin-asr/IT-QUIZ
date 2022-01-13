@@ -1,0 +1,76 @@
+	
+
+								=====================================
+								          Miscellaneous : Set B 
+								=====================================								
+
+						       Q1. A circuit which can store information is known as 
+
+				  		   	   1. Chip
+						
+						  	   2. Gate
+				 		
+						  	   3. IC
+				 		
+						 	   4. Memory cell
+						  	   $4
+
+								=====================================
+								          Miscellaneous : Set B 
+								=====================================
+
+						       Q2. The set of coded instructions is called
+
+						  	   1. Pie chart
+						    
+							   2. Flow chart
+						    
+							   3. Computer program
+						    
+							   4. Software design
+						    	   $3
+
+								=====================================
+								          Miscellaneous : Set B 
+								=====================================
+
+						       Q3. Toolbar that contains small pictures is called....
+
+						    	   1. Icons
+						    
+							   2. Images
+				 		    
+							   3. Clip art
+						    
+							   4. Gadgets
+				  		    	   $1
+
+								=====================================
+								          Miscellaneous : Set B 
+								=====================================
+
+							Q4. An error in computer program is termed as 
+				 		    
+							    1. Error
+						    
+							    2. Bug
+						
+							    3. Fault
+				 		 
+							    4. Byte
+				  		    	    $2
+
+								=====================================
+								          Miscellaneous : Set B 
+								=====================================
+
+							Q5. Dot-matrix is a type of ........
+						    
+							    1. Tape
+						    
+							    2. Printer
+						    
+							    3. Disk
+						    	
+							    4. Bus
+						    	    $2

@@ -1,0 +1,76 @@
+				
+
+								=====================================
+								     Networking & Hardware : Set A 
+								=====================================						
+
+						       Q1. Network of networks is known as ......
+
+				  		   	   1. Intranet
+						
+						  	   2. Internet
+				 		
+						  	   3. Local area network
+				 		
+						 	   4. WAN
+						  	   $2
+
+								=====================================
+								     Networking & Hardware : Set A 
+								=====================================	
+
+						       Q2. A signal is an
+
+						  	   1. Electric current
+						    
+							   2. Electromagnetic field
+						    
+							   3. Electronic current
+						    
+							   4. Both a & b
+						    	   $4
+
+								=====================================
+								     Networking & Hardware : Set A 
+								=====================================	
+
+						       Q3. A signal is used to convey data from
+
+						    	   1. One place to another place
+						    
+							   2. One system to another system
+				 		    
+							   3. Both a & b
+						    
+							   4. None of these
+				  		    	   $3
+
+								=====================================
+								     Networking & Hardware : Set A 
+								=====================================	
+
+							Q4. A path of channel may be 
+				 		    
+							    1. Hard wired
+						    
+							    2. Wireless
+						
+							    3. Both a & b
+				 		 
+							    4. None of these
+				  		    	    $3
+
+								=====================================
+								     Networking & Hardware : Set A 
+								=====================================	
+
+							Q5. A channel is defined as a path between
+						    
+							    1. Transistor and receiver
+						    
+							    2. Transmitter and transistor
+						    
+							    3. Transmitter and receiver
+						    	
+							    4. None of these
+						    	    $3
